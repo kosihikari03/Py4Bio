@@ -7,5 +7,5 @@ Estos archivos son para editar el libro, ya sea para hacer una copia propia o pa
 Si están interesados en el libro listo para leer, lo pueden desacargar gratuitamente desde https://leanpub.com/pythonparabioinformatica/ (también está la opción de pagar en el caso que se sientan generosos).
 
 Esta obra está bajo una
-[Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+[Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es).
 
