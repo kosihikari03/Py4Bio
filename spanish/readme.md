@@ -1,5 +1,7 @@
-# Test
+# Version en español
 
-## Version en español
+En este directorio están los archivos que conforman la versión en español del libro "Python para Bioinformática".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Estos archivos son para editar el libro, ya sea para hacer una copia propia o para proponer modificaciones a este libro. Puede ser enviar correcciones o sugerir nuevos temas.
+
+Si están interesados en el libro listo para leer, lo pueden desacargar gratuitamente desde https://leanpub.com/pythonparabioinformatica/ (también está la opción de pagar en el caso que se sientan generosos).
