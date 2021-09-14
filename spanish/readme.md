@@ -1,3 +1,5 @@
+![Image cover](images/biopy.png)
+
 # Python para Bioinformática, en español y open source
 
 En este directorio están los archivos que conforman la versión en español del libro "Python para Bioinformática".
