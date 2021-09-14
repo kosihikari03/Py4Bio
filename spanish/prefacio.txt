@@ -18,7 +18,7 @@ Otro cambio que se ve reflejado en el libro es el uso de Anacoda y Jupyter Noteb
 
 Con respecto al código fuente, hay un [repositorio de GitHub](https://github.com/ToyokoLabs/Py4Bio) donde pódes bajar todo el código y los archivos de ejemplo usados en el libro. También el texto del libro está disponible, por lo que si queres hacer una correción al libro, o agregar algún contenido relevante, podés enviar un *pull request*. Si no saber como hacerlo, podes abrir un *issue* en GitHub comentando el problema para que alguien lo solucione.
 
-Hay correcciones en todos los capítulos. A veces son por errores reales pero en la mayoría de los casos es por la actualización a Python 3 y por estar al día con las buenas prácticas. Con respecto a las correcciones, espero que este libro tenga correcciones, asi que hice un sitio web donde los lectores pueden tener actualizaciones. Por favor miren <http://py3.us> y suscribanse a una mailing list de bajo volumen donde podrán recibir mas información.
+Hay correcciones en todos los capítulos. A veces son por errores reales pero en la mayoría de los casos es por la actualización a Python 3 y por estar al día con las buenas prácticas. Con respecto a nuevas correcciones, como esta versión es open source, quienes encuentren errores podrán reportarlo en el sitio de GitHub mencionado arriba.
 
 Ademas de la evolución del software y cambios de paradigmas, también gané experiencia y cambié mi visión sobre temas pedagogicos. Durante estos años trabajé en un proyecto de secuenciamiento genómico en un consorcio internacional y como desarrollador de software en una empresa que cotiza en bolsa (Globant). En los últimos 5 años trabajé para clientes importantes como Salesforce, National Geographic y PLOS (Public Library of Science).
 
