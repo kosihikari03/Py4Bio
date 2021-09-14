@@ -1,4 +1,4 @@
-![Image cover](images/biopy.png)
+<img src="images/biopy.png" data-canonical-src="images/biopy.png" width="200" />
 
 # Python para Bioinformática, en español y open source
 
