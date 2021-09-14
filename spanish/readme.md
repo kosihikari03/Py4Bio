@@ -4,7 +4,7 @@
 
 En este directorio están los archivos que conforman la versión en español del libro "Python para Bioinformática".
 
-Estos archivos son para editar el libro, ya sea para hacer una copia propia o para proponer modificaciones: enviar correcciones, sugerir nuevos temas, agregar nuevos capítulos, etc.
+Estos archivos son para editar el libro, ya sea para hacer una copia propia o para proponer modificaciones: enviar correcciones, sugerir nuevos temas, agregar nuevos capítulos, traducirlo a otros idiomas (portugués por ejemplo), etc.
 
 Si están interesados en el libro listo para leer, lo pueden descargar gratuitamente desde https://leanpub.com/pythonparabioinformatica/ (también está la opción de pagar en el caso que se sientan generosos).
 
