@@ -22,7 +22,7 @@ Hay correcciones en todos los capítulos. A veces son por errores reales pero en
 
 Ademas de la evolución del software y cambios de paradigmas, también gané experiencia y cambié mi visión sobre temas pedagogicos. Durante estos años trabajé en un proyecto de secuenciamiento genómico en un consorcio internacional y como desarrollador de software en una empresa que cotiza en bolsa (Globant). En los últimos 5 años trabajé para clientes importantes como Salesforce, National Geographic y PLOS (Public Library of Science).
 
-Otro diferencia entre la versión en original y la versión en español es que esta versión tiene una licencia CC BY-NC 3.0, esto significa que el libro puede distribuirse gratuitamente mietras se haga sin fines comerciales.
+Otro diferencia entre la versión en original y la versión en español es que esta versión tiene una licencia Creative Commons BY-NC-SA 4.0, esto significa que el libro puede distribuirse gratuitamente mietras se haga sin fines comerciales.
 
 Con respecto al logo de Biopython que está en la tapa, aqui está la licencia de uso:
 
