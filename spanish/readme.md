@@ -39,5 +39,19 @@ Si están interesados en el libro listo para leer, lo pueden descargar gratuitam
 * Capítulo 8 [Introducción a la programación orientada a objetos (POO)](/chapter8.txt)
 * Capítulo 9 [Introducción a Biopython](/chapter9.txt)
 * Capítulo 10 [Aplicaciones Web](/chapter10.txt)
+* Capítulo 11 [XML](/chapter11.txt)
+* Capítulo 12 [Python y bases de datos](/chapter12.txt)
+* Capítulo 13 [Expresiones regulares](/chapter13.txt)
+* Capítulo 14 [Gráficos en Python](/chapter14.txt)
+* Capítulo 15 [Manipulación de secuencias en Batch](/chapter15.txt)
+* Capítulo 16 [Aplicación web para filtrar contaminación de vectores](/chapter16.txt)
+* Capítulo 17 [Buscando primers de PCR usando Primer3](/chapter17.txt)
+* Capítulo 18 [Calculando la temperatura de melting de un conjunto de primers](/chapter18.txt)
+* Capítulo 19 [Filtrando campos específicos de un archivo de GenBank](/chapter19.txt)
+* Capítulo 20 [Infiriendo sitios de splicing](/chapter20.txt)
+* Capítulo 21 [Dibujando posiciones de marcadores usando información almacenada en una base de datos](/chapter21.txt)
+* Capítulo 22 [Dibujando posiciones de marcadores usando información almacenada en una base de datos](/chapter22.txt)
+* Capítulo 23 [Mutaciones de ADN con restricción](/chapter23.txt)
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
