@@ -29,6 +29,15 @@ Si están interesados en el libro listo para leer, lo pueden descargar gratuitam
 
 [Dedicatoria](/agradecimientos.txt)
 
-
+* Capítulo 1 [Introducción](chapter1.txt)
+* Capítulo 2 [Primeros pasos con Python](/chapter2.txt)
+* Capítulo 3 [Programación básica: Tipos de datos](/chapter3.txt)
+* Capítulo 4 [Programación: Control de flujo](/chapter4.txt)
+* Capítulo 5 [Manejo de archivos](/chapter5.txt)
+* Capítulo 6 [Modularización del código](/chapter6.txt)
+* Capítulo 7 [Manejo de errores](/chapter7.txt)
+* Capítulo 8 [Introducción a la programación orientada a objetos (POO)](/chapter8.txt)
+* Capítulo 9 [Introducción a Biopython](/chapter9.txt)
+* Capítulo 10 [Aplicaciones Web](/chapter10.txt)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
